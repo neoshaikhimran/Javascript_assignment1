@@ -1,0 +1,1059 @@
+*{text-align: center;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;}
+
+.today{
+    font-family: Freestyle Script;
+    font-size: 25px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.menu {
+    font-size: 10px;
+    height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+}
+.searchbox {
+    background-color: white;
+    height: 40px;
+    width: 267px;
+    border-radius: 5px;
+    border: gainsboro solid 2px;
+    margin-bottom: 40px;
+}
+.searcharea    {
+    padding: 1px;
+    border: none;
+    outline: none;
+ }
+ .btn{
+    background-color: white;
+    border: none;
+    outline: none;
+ }
+ .nav-item {
+    display: block;
+    width: 76px;
+}
+.icon5{
+    margin-top: 10px;
+}
+.text1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    margin-top: 30px;
+}
+.download {
+    background-color: rgb(80, 72, 72);
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    width: 190px;
+    height: 50px;
+    border: rgb(184, 179, 179)2px solid;
+}
+.container3{
+    position: relative;
+    height: 500px;
+    width: 100%;
+    padding: 0%;
+    background-image: url("beach.jpg");
+}
+.con3text{
+    position: absolute;
+    top: 35%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.whatapp{
+    position: absolute;
+    top: 55%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    height: 50px;
+    width: 200px;
+    background-color: rgb(160, 230, 91);
+    border-radius: 5%;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.play{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    height: 80px;
+    width: 150px;
+    background-color: rgb(160, 230, 91);
+    border: none;
+    opacity: 0.8;
+    outline: none;
+}
+.container4{
+    height: 700px;
+    width: 100%;
+    background-color: white;
+}
+.textpara{
+    float: left;
+    width: 50%;
+    height: 700px;
+    background-color: white;
+}
+.textar{
+    text-align: left;
+    padding-left: 20%;
+    padding-top: 10%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.textar1{
+    text-align: left;
+    padding-left: 20%;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.textar2{
+    text-align: left;
+    padding-left: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.textar3{
+    text-align: left;
+    padding-left: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.textar4{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+.itextar4{
+    text-align: left;
+    padding-left: 20%;
+
+}
+.itextar3{
+    text-align: left;
+    padding-left: 20%;
+
+}
+.itextar2{
+    text-align: left;
+    padding-left: 20%;
+
+}
+.whatapp1{
+   
+
+    height: 50px;
+    width: 200px;
+    background-color: rgb(160, 230, 91);
+    border-radius: 5%;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-left: 20%;
+}
+.imgcon4{
+    float: right;
+    width: 50%;
+    height: 700px;
+    background-color: white;
+}
+.girl{
+    margin-top: 25%;
+    border: 5px black solid;
+
+}
+.container5{
+    position: relative;
+    height: 500px;
+    width:100% ;
+    padding: 0px;
+    
+}
+.con1 {
+    background-color: white;
+    top: 59%;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-color: darkgreen 5px solid;
+    float: left;
+    left: 17%;
+}
+.con1:hover{
+    border: darkgreen 5px solid;
+}
+.con2 {
+    background-color: white;
+    top: 59%;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-color: darkgreen 5px solid;
+    float: left;
+    left: 29.5%;
+}
+.con2:hover{
+    border: darkgreen 5px solid;
+}
+.con3 {
+    background-color: white;
+    top: 59%;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-color: darkgreen 5px solid;
+    float: left;
+    left: 41%;
+}
+.con3:hover{
+    border: darkgreen 5px solid;
+}
+.con4 {
+    background-color: white;
+    top: 59%;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-color: darkgreen 5px solid;
+    float: left;
+    left: 53%;
+}
+.con4:hover{
+    border: darkgreen 5px solid;
+}
+.con5 {
+    background-color: white;
+    top: 59%;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-color: darkgreen 5px solid;
+    float: left;
+    left: 66%;
+}
+.con5:hover{
+    border: darkgreen 5px solid;
+}
+.con6 {
+    background-color: white;
+    top: 59%;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-color: darkgreen 5px solid;
+    float: left;
+    left: 78%;
+}
+.con6:hover{
+    border: darkgreen 5px solid;
+}
+
+.green{
+    height: 500px;
+    width:100% ;
+
+}
+.con5text{
+        position: absolute;
+        top: 25%;
+        left: 54%;
+        transform: translate(-50%, -50%);
+        font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;
+}
+.con5txr{
+        position: absolute;
+        top: 40%;
+        left: 54%;
+        transform: translate(-50%, -50%);
+        font-size: 25px;
+        font-family: 'Times New Roman', Times, serif;
+}
+.toottip{
+    position: absolute;
+    top: 70%;
+    left: 21%;
+    transform: translate(-50%, -50%);
+}
+.toottip1{
+    position: absolute;
+    top: 70%;
+    left: 33.1%;
+    transform: translate(-50%, -50%);
+}
+.toottip2{
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
+.toottip3{
+    position: absolute;
+    top: 70%;
+    left: 57%;
+    transform: translate(-50%, -50%);
+}
+.toottip4{
+    position: absolute;
+    top: 70%;
+    left: 69.4%;
+    transform: translate(-50%, -50%);
+}
+.toottip5{
+    position: absolute;
+    top: 70%;
+    left: 82%;
+    transform: translate(-50%, -50%);
+}
+.con51text{
+    position: absolute;
+    top: 56%;
+    left: 20.5%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+}
+.con52text{
+    position: absolute;
+    top: 56%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+}
+.con53text{
+    position: absolute;
+    top: 56%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+}
+.con54text{
+    position: absolute;
+    top: 56%;
+    left: 57%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+}
+.con55text{
+    position: absolute;
+    top: 56%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+}
+.con56text{
+    position: absolute;
+    top: 56%;
+    left: 82%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+}
+.con57text{
+    position: absolute;
+    top: 69%;
+    left: 20.6%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.con58text{
+    position: absolute;
+    top: 69%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.con59text{
+    position: absolute;
+    top: 69%;
+    left: 44.8%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.con60text{
+    position: absolute;
+    top: 69%;
+    left: 56.5%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.con61text{
+    position: absolute;
+    top: 69%;
+    left: 69.5%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.con62text{
+    position: absolute;
+    top: 69%;
+    left: 81.6%;
+    transform: translate(-50%, -50%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.con63text{
+    position: absolute;
+    top: 69%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+}
+.con64text{
+    position: absolute;
+    top: 69%;
+    left: 39%;
+    transform: translate(-50%, -50%);
+}
+.con65text{
+    position: absolute;
+    top: 69%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+}
+.con66text{
+    position: absolute;
+    top: 69%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+}
+.con67text{
+    position: absolute;
+    top: 69%;
+    left: 75.5%;
+    transform: translate(-50%, -50%);
+}
+.con68text{
+    position: absolute;
+    top: 90%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border-radius: 2%;
+    border: yellowgreen 2px solid;
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;
+    width: 400px;
+}
+.con68text1:hover{
+    background-color: greenyellow;
+    font-style: normal;
+    border: white 2px solid;
+
+}
+.bun{
+    padding-top: 3%;
+}
+.container6{
+    height: 50px;
+    width: 100%;
+}
+.container7{
+    position: relative;
+    height: 700px;
+    width: 100%;
+    background-color:white;
+    padding: 0px;
+}
+.con7text{
+    position: absolute;
+    top: 15%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.whitecon{
+    position: absolute;
+    top: 59%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    width: 374px;
+    height: 479px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.whitecon1{
+    position: absolute;
+    top: 59%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    width: 374px;
+    height: 479px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cous{
+    padding-top: 10px;
+}
+.getst{
+    margin-top: 50px;
+    height: 40px;
+    width: 300px;
+    background-color: yellowgreen;
+    border: none;
+    border-radius: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container8{
+    position: relative;
+    padding: 0px;
+    height: 500px;
+    width: 100%;
+    
+    
+}
+.containerslid{
+    /* height: 500px; */
+    top: 20%;
+    position: absolute;
+    
+}
+
+/*.container81 {
+    position: absolute;
+    top: 0px;
+    height: 500px;
+    width: 100%;
+    
+}*/
+.round1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border:yellowgreen 6px solid ;
+
+}
+.round1:hover{
+    border: darkgreen 5px solid;
+}
+.wapper{
+    top: 0px;
+    position: absolute;
+
+}
+.container9{
+    height: 700px;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.blogimage1:hover{
+    
+    border: greenyellow 5px solid;
+
+}
+.blogimage2:hover{
+    
+    border: greenyellow 5px solid;
+
+}.blogimage3:hover{
+    
+    border: greenyellow 5px solid;
+
+}
+.whattext{
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.whattext1{
+    left: 36%;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+}
+.poin{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+.poin1:hover{
+    color: greenyellow;
+}
+
+.readmore {
+    width: 150px;
+    height: 50px;
+    margin-right: 186px;
+    background: green;
+    outline-color: gray;
+}
+.readmore1:hover{
+    border: black 2px solid;
+}
+.readmore11:hover{
+    border: white 4px solid;
+}
+.container11{
+    position: relative;
+    height: 600px;
+    width: 100%;
+    background-color: rgb(39, 39, 39);
+}
+.footlogo{
+    position: absolute;
+    top: 60px;
+    left: 10%;
+}
+.today1 {
+    top: 168px;
+    position: absolute;
+    font-family: Freestyle Script;
+    font-size: 43px;
+    left: 10%;
+}
+.fotext {
+    font-size: 30px;
+    right: 10%;
+    top: 45px;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+}
+.appointment {
+    position: absolute;
+    right: 60%;
+    top: 167px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;
+    width: 250px;
+    background-color: greenyellow;
+    border-radius: 5px;
+}
+.contact2 {
+    position: absolute;
+    right: 10%;
+    top: 167px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;
+    width: 250px;
+    background-color: greenyellow;
+    border-radius: 5px;
+}
+.con11sec1{
+    position: absolute;
+    left: 200px;
+    top: 325px;
+    height: 223px;
+    width: 282px;
+    background-color: rgb(39, 39, 39);
+}
+
+.c11te{
+    margin-top: 30px;
+    text-align: left;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(224, 224, 224);
+}
+.he{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    
+}
+.con11sec2{
+    position: absolute;
+    left: 585px;
+    top: 325px;
+    height: 223px;
+    width: 282px;
+    background-color: rgb(39, 39, 39);
+}
+.con11sec3{
+    position: absolute;
+    left: 957px;
+    top: 325px;
+    height: 223px;
+    width: 282px;
+    background-color: rgb(39, 39, 39);
+}
+.lit{
+    text-align: left;
+}
+.container12{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 40px;
+
+}
+.con12{
+    padding-top: 10px;
+}
+.con13{   
+    padding-top: 10px;
+}
+.con14{
+    padding-top: 10px;   
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding-top: 4px;
+    margin-left: 4%;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 100%;
+    height: 20px;
+    width: 20px;
+    padding-top: 4px;
+    margin-left: 4%;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding-top: 4px;
+    margin-left: 4%;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding-top: 4px;
+    margin-left: 4%;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding-top: 3px;
+    margin-left: 4%;
+  }
+  .chnage{
+      height: 30px;
+      width: 30px;
+      background-color: rgb(177, 174, 174);
+  }
+  .lastcon{
+      background-color: white;
+      color: gray;
+  }
+@media screen and (max-width:1020px){
+
+    .girl {
+        width: 120px;
+        height: 120px;
+        float: left;
+        margin-left: 45px;
+    }
+    .play {
+        width: 100px;
+        top: 50%;
+        left: 50%;
+    }
+    .whatapp {
+        top: 70%;
+        left: 50%;
+    }
+
+    .con3text {
+        font-size: small;
+        text-align: center;
+        left: 50%;
+        top: 30%;
+    }
+    .textar{
+        font-size: x-large;
+    }
+    .textar1 {
+        text-align: justify;
+        font-size: 14px;
+    }
+    .textar2{
+        text-align: justify;
+        font-size: 14px;
+
+    }
+    .textar3{
+        text-align: justify;
+        font-size: 14px;
+
+    }
+    .textar4{
+        text-align: justify;
+        font-size: 14px;
+
+    }
+    .container4 {
+        height: 1150px;
+        width: 100%;
+    }
+    .container5{
+        height: 500px;
+        width: 100%;
+    }
+    .con1 {
+        height: 40px;
+        top: 41%;
+        width: 40px;
+        left: 15%;
+    }
+    .con2 {
+        height: 40px;
+        top: 41%;
+        width: 40px;
+        left: 27%;
+    }
+    .con3 {
+        height: 40px;
+        top: 41%;
+        width: 40px;
+        left: 39%;
+    }
+    .con4 {
+        height: 40px;
+        top: 41%;
+        width: 40px;
+        left: 51%;
+    }
+    .con5 {
+        height: 40px;
+        top: 41%;
+        width: 40px;
+        left: 64%;
+    }
+    .con6 {
+        height: 40px;
+        top: 41%;
+        width: 40px;
+        left: 76%;
+    }
+
+    .green{
+        height: 500px;
+        width: 100%;
+
+    }
+    .con5text {
+        top: 16%;
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .con68text {
+        height: 36px;
+        width: 250px;
+        font-size: small;
+        padding: -5px;
+    }
+   
+    .con5txr {
+        text-align: center;
+        font-size: 9px;
+        top: 30%;
+    }
+    .con51text {
+        font-size: small;
+        top: 36%;
+        left: 20%;
+    }
+    .con52text{
+       
+        top: 36%;
+        left: 33%;
+        font-size: small;
+    }
+    .con53text{
+        
+        top: 36%;
+        left: 45%;
+        font-size: small;
+    }
+    .con54text{
+        
+        top: 36%;
+        left: 57%;
+        font-size: small;
+    }
+    .con55text{
+        
+        top: 36%;
+        left: 70%;
+        font-size: small;
+    }
+    .con56text{
+        
+        top: 36%;
+        left: 82%;
+        font-size: small;
+    }
+    .toottip {
+        top: 45%;
+        height: 50px;
+        width: 50px;
+    }
+    .toottip1 {
+        top: 45%;
+        height: 50px;
+        width: 50px;
+    }.toottip2 {
+        top: 45%;
+        height: 50px;
+        width: 50px;
+    }.toottip3 {
+        top: 45%;
+        height: 50px;
+        width: 50px;
+    }.toottip4 {
+        top: 45%;
+        height: 50px;
+        width: 50px;
+    }.toottip5 {
+        top: 45%;
+        height: 50px;
+        width: 50px;
+    }
+    .con57text{
+        top: 45%;
+        font-size: small;
+    }
+    .con58text{
+        top: 45%;
+        font-size: small;
+    }.con59text{
+        top: 45%;
+        font-size: small;
+    }.con60text{
+        top: 45%;
+        font-size: small;
+    }.con61text{
+        top: 45%;
+        font-size: small;
+    }.con62text{
+        top: 45%;
+        font-size: small;
+    }
+    .con7text {
+        top: 5%;
+        left: 50%;
+        font-size: 5px;
+        text-align: justify;
+    }
+    .whitecon {
+        width: 49%;
+        top: 52%;
+        left: 75%;
+        height: 92%;
+        font-size: smaller;
+        text-align: justify;
+    }
+    
+    .whitecon1 {
+        top: 52%;
+        left: 25%;
+        width: 49%;
+        height: 92%;
+        font-size: smaller;
+        text-align: justify;
+    }
+    .getst{
+        height: 20px;
+        width: 150px;
+        margin-top: 25px;
+    }
+    .container8{
+        top: 100%;
+    }
+    .blog1 {
+        margin-bottom: 6px;
+    }
+    .blog2 {
+        margin-bottom: 6px;
+    }
+    .blog3 {
+        margin-bottom: 6px;
+    }
+    .second{
+        margin-top: 254%;
+    }
+    .footlogo {
+        left: 15px;
+        height: 30px;
+    }
+    .fotext {
+        font-size: 14px;
+        left: 1px;
+    }
+    .today1 {
+        font-size: 17px;
+        left: 7px;
+    }
+    .appointment {
+        width: 114px;
+        left: 13px;
+    }
+    .contact2 {
+        width: 114px;
+        left: 13px;
+        top: 220px;
+    }
+    .con11sec1 {
+        width: 99%;
+        left: 1px;
+    }
+    .con11sec2 {
+        top: 586px;
+        left: 0px;
+        width: 100%;
+    }
+    .con11sec3 {
+        top: 782px;
+        left: 0px;
+        width: 100%;
+    }
+    .container12 {
+        margin-top: 404px;
+    }
+    .lastcon {
+        background-color: black;
+        color: white;
+        height: 60PX;
+        padding-top: 37px;
+    }
+    .whattext1 {
+        font-size: xx-large;
+        left: 8%;
+    }
+    .whattext{
+        font-size: small;
+        text-align: center;
+    }
+    .searcharea{
+        width: 194px;
+    }
+    .searchbox{
+        height: 50px;
+    }
+
+}
+
